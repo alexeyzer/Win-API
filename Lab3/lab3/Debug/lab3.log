@@ -1,0 +1,4 @@
+﻿  lab3.cpp
+C:\Users\alexe\source\repos\lab3\lab3\lab3.cpp(134,16): warning C4229: устаревший элемент: пропуск модификаторов для данных
+C:\Users\alexe\source\repos\lab3\lab3\lab3.cpp(134,15): warning C4101: a: неиспользованная локальная переменная
+  lab3.vcxproj -> C:\Users\alexe\source\repos\lab3\Debug\lab3.exe

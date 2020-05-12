@@ -1,0 +1,6 @@
+﻿  WindowsProject3.cpp
+C:\Users\alexe\Desktop\winapi\WindowsProject3\WindowsProject3\WindowsProject3.cpp(50,16): warning C4229: устаревший элемент: пропуск модификаторов для данных
+C:\Users\alexe\Desktop\winapi\WindowsProject3\WindowsProject3\WindowsProject3.cpp(50,15): warning C4101: a: неиспользованная локальная переменная
+C:\Users\alexe\Desktop\winapi\WindowsProject3\WindowsProject3\WindowsProject3.cpp(175,8): warning C4101: szT: неиспользованная локальная переменная
+C:\Users\alexe\Desktop\winapi\WindowsProject3\WindowsProject3\WindowsProject3.cpp(207,14): warning C4101: ps: неиспользованная локальная переменная
+  WindowsProject3.vcxproj -> C:\Users\alexe\Desktop\winapi\WindowsProject3\Debug\WindowsProject3.exe
